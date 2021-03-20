@@ -1,0 +1,1 @@
+java -cp Dungeon4k.jar D window

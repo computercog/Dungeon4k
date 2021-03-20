@@ -1,0 +1,26 @@
+------------------
+-Running the game-
+------------------
+
+Run "java -cp Dungeon4k.jar D window" or execute the "run.bat" file to run the game.
+
+--------------
+-Instructions-
+--------------
+
+The goal of Dungeon4k is to collect as many diamonds as possible before the energy runs out.
+To do this, you will need to find keys for locked doors, refill your energy, and cast powerful spells.
+
+----------
+-Controls-
+----------
+
+W or ARROW UP:	Move forward
+S or ARROW DOWN:	Move back
+A or ARROW LEFT:	Move left
+D or ARROW RIGHT:	Move right
+Q or HOME:	Turn left
+E or PAGE UP:	Turn right
+ESCAPE:	Quit the game
+P:	Cast the PULL spell
+B:	Cast the BREAK spell
