@@ -12,7 +12,6 @@ It was written by Markus Persson as an entry for a java 4KB game programming com
 The original .jar is included, but I recommend that you use the updated one.
 To launch the original, run "java -cp Dungeon4k.jar D window" or execute the "run.bat" file to run the game.
 To launch the updated version, all you need to do is double click on the .jar file.
-Please note that no matter which version you use, the game will capture your cursor until you exit the game.
 
 --------------
 -Instructions-
