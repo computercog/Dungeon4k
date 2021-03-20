@@ -55,3 +55,8 @@ E or PAGE UP:	Turn right
 ESCAPE:	Quit the game
 P:	Cast the PULL spell
 B:	Cast the BREAK spell
+
+--------
+-NOTICE-
+--------
+Everything here is copyright Markus "Notch" Persson.
